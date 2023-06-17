@@ -1,0 +1,16 @@
+dataset/train_image/185.jpg 0.72254902
+dataset/train_image/186.jpg 0.795098039
+dataset/train_image/187.jpg 0.249019608
+dataset/train_image/188.jpg 0.905882353
+dataset/train_image/189.jpg 0.713482353
+dataset/train_image/190.jpg 0.531372549
+dataset/train_image/191.jpg 0.512745098
+dataset/train_image/192.jpg 0.0
+dataset/train_image/193.jpg 0.480392157
+dataset/train_image/194.jpg 0.701960784
+dataset/train_image/195.jpg 0.891176471
+dataset/train_image/196.jpg 0.833333333
+dataset/train_image/197.jpg 0.299019608
+dataset/train_image/198.jpg 0.456862745
+dataset/train_image/199.jpg 0.478431373
+dataset/train_image/200.jpg 0.06372549
